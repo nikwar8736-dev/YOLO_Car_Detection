@@ -1,0 +1,12 @@
+path: C:/Users/DELL/Documents/YOLO_Car_Detection/public_dataset
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 4
+names:
+  0: Grey Car
+  1: Purple Car
+  2: Red Car
+  3: Yellow Car
